@@ -1,2 +1,5 @@
+
+
 # Data_Structures
-different sorting, serching and tree structure algorithm implementations
+
+## Merge-Sort, Different Searching Algorithms and Red-Black Tree structure implementation 
